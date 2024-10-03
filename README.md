@@ -1,4 +1,5 @@
-# Flipkart-ecommerce-Data-analysis-project
+# Flipkart-ecommerce-Data-analysis-project ![Screenshot 2024-10-03 133046](https://github.com/user-attachments/assets/d3dcfb77-c36c-424a-ad5d-2c09c409427d)
+
 Description
 * This project analyzes a dataset extracted from Flipkart, a leading Indian e-commerce platform, to derive insights into sales trends, discount patterns, and product categorization.
 
