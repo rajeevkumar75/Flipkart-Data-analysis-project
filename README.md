@@ -38,3 +38,5 @@ Conclusion
 * Minimal missing information (except for some category-specific gaps like "None").
 * High discount percentages in automotive, electronics, and clothing categories.
 * The analysis identifies key sales trends and categories, aiding businesses in strategic planning for sales promotions.
+
+For more detail, You can access my code and ppt......
