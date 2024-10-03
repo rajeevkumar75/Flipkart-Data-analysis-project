@@ -18,8 +18,17 @@ Sales Trends:
   
 Top Categories:
 * Main Categories: Clothing, Jewelry, and Footwear lead in sales.
+
+  ![image](https://github.com/user-attachments/assets/dc374349-412a-45a9-a0d8-295bbc05aec3)
+
 * Secondary Categories: Women’s Clothing surpasses Men’s Clothing by over two-fold, suggesting a large female consumer base.
+
+  ![image](https://github.com/user-attachments/assets/9bdf745c-e5bf-4898-aefb-8007ac319786)
+
 * Tertiary Categories: Western Wear, Necklaces, and Casual Shoes dominate sales.
+
+  ![image](https://github.com/user-attachments/assets/5709dd44-bf37-4a0b-bc2b-97c3bce0979f)
+
   
 Discount Insights: 
 * Automotive, Electronics, and Clothing received the highest discounts across primary and secondary categories.
