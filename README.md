@@ -2,6 +2,7 @@
 
 Description
 * This project analyzes a dataset extracted from Flipkart, a leading Indian e-commerce platform, to derive insights into sales trends, discount patterns, and product categorization.
+* DATASET Link:[ https://www.youtube.com/watch?v=mmxVCFceQgU](https://drive.google.com/file/d/1P73MRV4YF8t4tnkxesZAhdIMiSFxRe1q/view?usp=drive_link)
 
 Dataset
 * The dataset contains 20,000 rows and 15 columns, including details such as product URL, name, category, price, and discount information. Notable findings include:
